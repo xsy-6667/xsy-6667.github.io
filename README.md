@@ -2,7 +2,7 @@
 
 Welcome to my blog
 
-![这是一个示例图](雅阁.png)
+![avatar](D:\桌面\临时文件\精美壁纸)
 
 >Talik is cheap,show me the code!
 >>苦心人，天不负，百二秦关终属楚
